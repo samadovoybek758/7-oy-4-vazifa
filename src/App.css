@@ -20,17 +20,17 @@
   margin-right: auto; */
  
   margin-inline: auto;
-  max-width: 1400px;
+  max-width: 1200px;
   display: flex;
   flex-direction: row;
-  gap: 15px;
+  gap: 20px;
   
   flex-wrap: wrap;
   justify-content: center;
 }
 .details_cont{
   display: flex;
-  width: 1088px;
+  width: 973px;
   gap: 32px;
 }
 .details_img{
