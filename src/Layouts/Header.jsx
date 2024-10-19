@@ -4,7 +4,7 @@ import React from 'react';
 function Header({children}) {
   return (
     <div>
-      <div class="navbar bg-base-100">
+      <div class="navbar bg-slate-500 mb-7 px-auto mx-auto">
   <div class="flex-1">
     <a class="btn btn-ghost text-xl">daisyUI</a>
   </div>
